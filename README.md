@@ -23,7 +23,7 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 
 - **Core Research:** Designing cascade architectures uniting classical ensemble models with quantum kernel methods (QSVM, ZZFeatureMaps) for adversarial defense and high-stakes financial fraud detection.
 - **Engineering Track Record:** Built spatiotemporal deep learning pipelines for satellite precipitation forecasting and automated regulatory verification systems powered by fine-tuned LLMs.
-- **Competitions:** Grand Finalist at **QC4SG Vietnam 2026** (2nd SEA Quantathon), Top 0.5% worldwide in the **International Quant Championship (IQC) 2026**, and National Round Participant at **ICPC 2025**.
+- **Competitions & Incubation:** Grand Finalist at **QC4SG Vietnam 2026** (2nd SEA Quantathon), Top 0.5% worldwide in the **International Quant Championship (IQC) 2026**, Top 2 ("Ngưu Bá") at **AREA 303 (BA3 Studio)**, Top 15 at **Future Business Analyst (RMIT)**, and active Finalist at **HUIT Startup VIII**.
 - **Collaborations:** Open to research partnerships and engineering initiatives in Applied AI, Quantum ML, and Scalable Intelligent Systems.
 
 ---
@@ -40,7 +40,12 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 ### [EcoCheck](https://github.com/ngophatneknha) — AI Legal Compliance for SMEs
 *Founder & Team Lead*
 - Led an interdisciplinary engineering team developing an AI-driven platform assisting Vietnamese SMEs in evaluating environmental regulatory compliance using fine-tuned LLMs and deterministic expert systems.
-- Awarded **2nd Prize** at HUIT Startup VIII (2026) and advanced to city-level finals.
+- **Accolades & Incubation:** Awarded 2nd Prize at Faculty Level, currently advancing as an active **Finalist in the City-Level Round at HUIT Startup VIII**, and selected among the **Top 10 Incubated Ventures in the ATTACK 2026 Project Incubation Program**.
+
+### [MAVERICKS](https://github.com/ngophatneknha/MAVERICKS-Market-Intelligence) — E-Commerce Market Intelligence System
+*Lead System Architect & Business Analytics*
+- Engineered an automated competitive intelligence engine tracking rival SKU catalogs, pricing dynamics, and promotional elasticity across E-commerce platforms.
+- **Accolade:** Awarded **Top 2 "Ngưu Bá" (1st Runner-Up)** in the Final Business Challenge at *AREA 303: The Buffalo Playground* organized by BA3 Studio.
 
 ### Satellite Spatiotemporal Precipitation & Flood Intelligence
 *Lead Deep Learning Pipeline*
@@ -59,8 +64,12 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 |---|---|:---:|
 | **Grand Finalist** (Fintech Track) | QC4SG Vietnam — The 2nd SEA Quantathon | 2026 |
 | **Top 0.5% Worldwide** | International Quant Championship (IQC), WorldQuant Brain | 2026 |
+| **Top 2 "Ngưu Bá" Award** (1st Runner-Up) | AREA 303: The Buffalo Playground — BA3 Studio | 2026 |
+| **Top 15 Nationally** | Future Business Analyst (FBA) Contest — RMIT University Vietnam | 2026 |
+| **Finalist (EcoCheck Project)** | HUIT Startup VIII Innovation Competition | 2026 |
+| **Top 10 Incubated Ventures** | ATTACK 2026 Project Incubation Program | 2026 |
 | **1st Prize** | Data Science Competition, FIT — HUIT | 2025 |
-| **2nd Prize** | Scientific Research & Innovation Startup Competition | 2026 |
+| **2nd Prize** | Scientific Research & Innovation Startup Competition (Faculty Level) | 2026 |
 | **National Round Participant** | International Collegiate Programming Contest (ICPC) | 2025 |
 
 ---
