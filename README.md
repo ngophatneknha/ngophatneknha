@@ -23,7 +23,7 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 
 - **Core Research:** Designing cascade architectures uniting classical ensemble models with quantum kernel methods (QSVM, ZZFeatureMaps) for adversarial defense and high-stakes financial fraud detection.
 - **Engineering Track Record:** Built spatiotemporal deep learning pipelines for satellite precipitation forecasting and automated regulatory verification systems powered by fine-tuned LLMs.
-- **Competitions & Incubation:** Grand Finalist at **QC4SG Vietnam 2026** (2nd SEA Quantathon), Top 0.5% worldwide in the **International Quant Championship (IQC) 2026**, Top 2 ("Ngưu Bá") at **AREA 303 (BA3 Studio)**, Top 15 at **Future Business Analyst (RMIT)**, and active Finalist at **HUIT Startup VIII**.
+- **Competitions & Incubation:** Grand Finalist at **QC4SG Vietnam 2026** (2nd SEA Quantathon), Top 0.5% worldwide in the **International Quant Championship (IQC) 2026**, Top 2 ("Ngưu Bá") at **AREA 303 (BA3 Studio)**, Consolation Prize at **OLP AI 2026 (Southern Regional Round)**, Top 15 at **Future Business Analyst (RMIT)**, and active Finalist at **HUIT Startup VIII**.
 - **Collaborations:** Open to research partnerships and engineering initiatives in Applied AI, Quantum ML, and Scalable Intelligent Systems.
 
 ---
@@ -65,6 +65,7 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 | **Grand Finalist** (Fintech Track) | QC4SG Vietnam — The 2nd SEA Quantathon | 2026 |
 | **Top 0.5% Worldwide** | International Quant Championship (IQC), WorldQuant Brain | 2026 |
 | **Top 2 "Ngưu Bá" Award** (1st Runner-Up) | AREA 303: The Buffalo Playground — BA3 Studio | 2026 |
+| **Consolation Prize** (Bảng Chuyên AI) | OLP AI 2026 — Southern Regional Round (Olympic Tin học Sinh viên) | 2026 |
 | **Top 15 Nationally** | Future Business Analyst (FBA) Contest — RMIT University Vietnam | 2026 |
 | **Finalist (EcoCheck Project)** | HUIT Startup VIII Innovation Competition | 2026 |
 | **Top 10 Incubated Ventures** | ATTACK 2026 Project Incubation Program | 2026 |
