@@ -23,7 +23,7 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 
 - **Core Research:** Designing cascade architectures uniting classical ensemble models with quantum kernel methods (QSVM, ZZFeatureMaps) for adversarial defense and high-stakes financial fraud detection.
 - **Engineering Track Record:** Built spatiotemporal deep learning pipelines for satellite precipitation forecasting and automated regulatory verification systems powered by fine-tuned LLMs.
-- **Competitions & Incubation:** National Top 100 Contender at **AI Thực Chiến (Ministry of Public Security & VTV)**, Champion (1st Prize) & Best Presentation Award at **HUIT Startup 2026** (City Level), Grand Finalist at **QC4SG Vietnam 2026** (2nd SEA Quantathon), Top 0.5% worldwide in the **International Quant Championship (IQC) 2026**, Top 2 ("Ngưu Bá") at **AREA 303 (BA3 Studio)**, Consolation Prize at **OLP AI 2026 (Southern Regional Round)**, and Top 15 at **Future Business Analyst (RMIT)**.
+- **Competitions & Incubation:** National Top 100 Contender at **AI Thực Chiến (Ministry of Public Security & VTV)**, Champion (1st Prize) & Best Presentation Award at **HUIT Startup 2026** (City Level), Rank 1 Knowledge Round at **Stem Cell Innovation Contest 2026 (VNUHCM-US)**, Grand Finalist at **QC4SG Vietnam 2026** (2nd SEA Quantathon), Top 0.5% worldwide in the **International Quant Championship (IQC) 2026**, Top 2 ("Ngưu Bá") at **AREA 303 (BA3 Studio)**, Consolation Prize at **OLP AI 2026 (Southern Regional Round)**, and Top 15 at **Future Business Analyst (RMIT)**.
 - **Collaborations:** Open to research partnerships and engineering initiatives in Applied AI, Quantum ML, and Scalable Intelligent Systems.
 
 ---
@@ -65,6 +65,7 @@ I am an **AI Engineer & Lead Researcher** specializing in **Hybrid Quantum-Class
 | **National Top 100 Contender** (Active Contestant) | AI Thực Chiến — Ministry of Public Security (BCA), NDC, NDA & VTV | 2026 |
 | **Champion / 1st Prize** (Quán quân Bảng Sinh viên) | HUIT Startup 2026 (City Level, 244 competing ventures) — EcoCheck | 2026 |
 | **Best Presentation Award** (Thuyết trình ấn tượng nhất) | HUIT Startup 2026 (City Level) — EcoCheck | 2026 |
+| **Rank 1 (Knowledge Round) & Top 10 Poster** | Stem Cell Innovation Contest 2026 ("Stem Cells & AI") — VNUHCM-US (Team NexusAI) | 2026 |
 | **Grand Finalist** (Fintech Track) | QC4SG Vietnam — The 2nd SEA Quantathon | 2026 |
 | **Top 0.5% Worldwide** | International Quant Championship (IQC), WorldQuant Brain | 2026 |
 | **Top 2 "Ngưu Bá" Award** (1st Runner-Up) | AREA 303: The Buffalo Playground — BA3 Studio | 2026 |
